@@ -7,6 +7,9 @@
 	<body>
 		<h1>ControlFip</h1>
 		<h2>Sistema de Controle Financeiro Pessoal</h2>
+		<div>
+			<a href="contas_apagar.php">Contas a Pagar</a>
+		</div>
 		<?php 
 		
 		 ?>
